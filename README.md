@@ -88,7 +88,7 @@ imc-calculadora/
 
 ## 📊 Cobertura de Testes
 <img width="1920" height="1080" alt="TESTE" src="https://github.com/user-attachments/assets/fcc13510-89eb-45e4-9646-dfbd03b7ae16" />
-<img width="1920" height="1080" alt="TESTE" src="https://github.com/user-attachments/assets/fcc13510-89eb-45e4-9646-dfbd03b7ae16" />
+
 
 
 
